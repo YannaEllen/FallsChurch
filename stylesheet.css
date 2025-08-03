@@ -22,7 +22,8 @@ footer{
 }
 
 li{
-
+    display: inline;
+    text-align: center;
 }
 
 h1{
@@ -34,3 +35,4 @@ p{
     line-height:150% ;
     text-align: justify;
 }
+
