@@ -1,5 +1,5 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 150%;
 }
 
@@ -8,6 +8,7 @@ header{
 }
 
 nav{
+    text-align: center;
     display: inline;
     background-color: #ffc0cb;
 }
@@ -31,4 +32,5 @@ h1{
 
 p{
     line-height:150% ;
+    text-align: justify;
 }
